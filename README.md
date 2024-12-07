@@ -44,7 +44,7 @@ Install Paws bot with the following commands:
 Create a `config.json` file in the root directory with the following structure:
    ```json
 {
-    "connect_wallets": false,
+    "connect_wallets": true,
     "account_delay": [5, 10],
     "cycle_delay": [14400, 28800]
 }
