@@ -81,7 +81,7 @@ Get your telegram query_id / user_id with the following steps:
    ```
 
 ## Add wallets address
-Add your TON nertwork wallet address in `wallets.tst` by the following command:
+Add your TON nertwork wallet address in `wallets.txt` by the following command:
    ```bash
    nano wallets.txt
    ```
